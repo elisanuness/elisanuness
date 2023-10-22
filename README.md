@@ -13,7 +13,7 @@
 <div>
     <a href="https://www.instagram.com/elisanunes._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23CA94DB?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/elisa-nunes-47a049293/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%236CA2DB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:elisanunessf.04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB7A7A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:elisanunessf.04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23DB7A7A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 
