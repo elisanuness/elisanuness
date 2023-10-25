@@ -24,6 +24,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
 </div>
 
+<br></br>
+<br></br>
+<br></br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisanuness&layout=compact&locale=pt-br&bg_color=82c2aa&title_color=ffffff&text_color=178059" /> 
+    <br></br>
+    <img src="https://github-readme-stats.vercel.app/api?username=elisanuness&show_icons=true&hide=contribs,prs&locale=pt-br&bg_color=82c2aa&title_color=ffffff&text_color=178059&icon_color=ffffff" />
+
+
 </html>
 <!--
 **elisanuness/elisanuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
