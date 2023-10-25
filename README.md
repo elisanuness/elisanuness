@@ -26,7 +26,6 @@
 
 <br></br>
 <br></br>
-<br></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisanuness&layout=compact&locale=pt-br&bg_color=82c2aa&title_color=ffffff&text_color=178059" /> 
     <br></br>
     <img src="https://github-readme-stats.vercel.app/api?username=elisanuness&show_icons=true&hide=contribs,prs&locale=pt-br&bg_color=82c2aa&title_color=ffffff&text_color=178059&icon_color=ffffff" />
