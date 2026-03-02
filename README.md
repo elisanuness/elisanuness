@@ -21,11 +21,10 @@
 -------------------------------------------------------------->
 <div>
     <img align="center" alt="Elisa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" width="35"/>
-    <img align="center" alt="Elisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
     <img align="center" alt="Elisa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Elisa-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Elisa-Angular" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/angularjs/angularjs-original.svg" />
+    <img align="center" alt="Elisa-CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" />
+    <img align="center" alt="Elisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
           
 </div>
-<br></br>
-    <img height =180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisanuness&icon_color=f96c85&layout=compact&bg_color=fdc0cb&text_color=ffffff&title_color=ffffff" />
-</html>
