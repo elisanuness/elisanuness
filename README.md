@@ -8,7 +8,7 @@
     <li>Meu objetivo é continuar aprimorando minhas habilidades, contribuir para projetos de código aberto e, eventualmente, trabalhar em projetos que tenham impacto positivo na sociedade.</li>
 </ul>
 
-------------------------------------------------------------
+<!--------------------------------------------------------------
 <h3>Minhas redes sociais:</h3>
 <div>
     <a href="https://www.linkedin.com/in/elisa-nunes-47a049293/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%236CA2DB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,7 +18,7 @@
 </div>
 
 
-------------------------------------------------------------
+-------------------------------------------------------------->
 <div>
     <img align="center" alt="Elisa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" width="35"/>
     <img align="center" alt="Elisa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
@@ -29,17 +29,3 @@
 <br></br>
     <img height =180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisanuness&icon_color=f96c85&layout=compact&bg_color=fdc0cb&text_color=ffffff&title_color=ffffff" />
 </html>
-<!--
-**elisanuness/elisanuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
